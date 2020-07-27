@@ -4,6 +4,8 @@
 
 This application allows the user to add a city from a predetermined list of cities via an API and compare that city to other cities. This application also allows the user to add to the current time to compare a later time. Lastly, there is a light/dark mode toggle included.
 
+Demo can be found at <a href="https://carsons.me/timezone/">https://carsons.me/timezone/</a>.
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
